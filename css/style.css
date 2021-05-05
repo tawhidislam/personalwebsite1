@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+  font-family: "Ubuntu", sans-serif;
+}
+.texthighlight {
+  color: #fe117e;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  color: dimgray;
+}
+.halfwidth {
+  width: 30%;
+  float: left;
+  margin-left: 10%;
+  padding-left: 4%;
+}
+
+.mypicture {
+  width: 100%;
+}
+.dream-img {
+  width: 100%;
+}
+.topbanner {
+  padding-top: 50px;
+  height: 500px;
+  background: url(../images/header-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.liinkbutton {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, #ff0088, #e74792);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 700;
+}
+.dream {
+  padding-top: 50px;
+  height: 500px;
+  background: url(../images/biography-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.singleex {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 7px;
+  height: 250px;
+  background-color: white;
+}
+.latest-work {
+  padding-top: 50px;
+  height: 500px;
+  background: url(../images/latest-work-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.middle-text {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+.third-width {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding: 15px;
+  border-radius: 15px;
+  align-items: center;
+  -webkit-box-shadow: -7px 0px 16px -2px rgba(0, 0, 0, 0.43);
+  box-shadow: -7px 0px 16px -2px rgba(0, 0, 0, 0.43);
+}
+.third-width img {
+  width: 100%;
+}
+
+.founder {
+  margin-top: none;
+  padding-top: none;
+  font-size: 15px;
+}
+.comment {
+  color: black;
+}
+.contact-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, #ff0088, #e74792);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 700;
+  margin-left: 30%;
+  margin-right: 30%;
+  flex-direction: row;
+  background-image: url(../images/Group_33094_1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contact-text-1 {
+  color: white;
+}
+
+.footer {
+  height: 400px;
+
+  background: url(../images/footer-bg.png);
+  background-repeat: no-repeat;
+
+  background-position: right;
+}
+.copyright {
+  padding-top: 100px;
+}
